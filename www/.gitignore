@@ -7,6 +7,7 @@ ehthumbs.db
 Desktop.ini
 
 # Pytyon
+*.pyc
 *.py[cod]
 *.so
 *.egg
