@@ -1,0 +1,15 @@
+# My
+.idea
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pytyon
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
